@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Thatianne       
+-Profissão: Professora
+-Cidade: Rio de Janeiro
+-O que faz nas horas vagas: Sou atleta, toco violão, gosto de ir ao cinema, ler e ficar com minha família
+-Feedback sobre o curso Qualidade de Software: Bem completo, estou aprendendo bastante
+-Feedback sobre a plataforma de estudo da EBAC: As aulas podem ser mais rápidas, coloco sempre no 2x
+
+Obrigado!!!
+
+
